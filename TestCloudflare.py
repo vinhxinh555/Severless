@@ -5,3 +5,4 @@ params = {"name": "test"}
 
 res = requests.get(url, params=params)
 print(res.json())
+print(res.json())
